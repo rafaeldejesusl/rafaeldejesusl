@@ -7,6 +7,7 @@
 </p>
 
 <h3 align="left">Contatos:</h3>
+<h5 align="left">rafaeldejesuspp@gmail.com</h5>
 <p align="left">
 <a href="https://linkedin.com/in/rafael-de-jesus-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-de-jesus-lima" height="30" width="40" /></a>
 </p>
