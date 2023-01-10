@@ -3,7 +3,7 @@
 
 <h3 align="left">Sobre mim:</h3>
 <p align="left">
-  Eu sou formado em Engenharia de petróleo, mas me apaixonei pelo mundo da tecnologia e suas novidades. Aualmente, sou programador Full Stack através do curso da Trybe, com objetivo de evoluir na minha carreira e participar dessa revolução tecnológica. #VQV.
+  Eu sou formado em Engenharia de petróleo, mas me apaixonei pelo mundo da tecnologia e suas novidades. Atualmente, sou programador Full Stack através do curso da Trybe, com objetivo de evoluir na minha carreira e participar dessa revolução tecnológica. #VQV.
 </p>
 
 <h3 align="left">Contatos:</h3>
