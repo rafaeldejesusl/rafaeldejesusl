@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Rafael e este é meu repositório</h1>
-<h3 align="center">Estudante de Desenvolvimento Web na Trybe</h3>
+<h3 align="center">Desenvolvedor de Software na BlueProjects</h3>
 
 <h3 align="left">Sobre mim:</h3>
 <p align="left">
